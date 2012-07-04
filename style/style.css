@@ -1,0 +1,312 @@
+.productTable tr td{
+    padding: 5px 0px;
+}
+.widefat tbody th.check-column{
+    padding: 7px 0 12px;
+}
+
+.exBox{
+    width: 320px;
+    padding: 5px;
+    padding-bottom: 10px;
+    min-height: 15px;
+    clear:both
+    
+}
+.exBox label{
+    padding-right: 10px;
+    display: block;
+   padding-top: 7px;
+    float: left;
+
+}
+#addcitygridlist .exBox input,#addcitygridlist select{
+    float: right;
+    width: 150px;
+}
+.exBox p{
+    float: right;
+    clear: both;
+    color: red;
+    font-size: 9px;
+    font-style: italic;
+}
+
+.exBox2{
+    width: 650px;
+    padding: 5px;
+    padding-bottom: 10px;
+    min-height: 15px;
+    clear:both
+    
+}
+
+#placesBox,#offersBox,#reviewBox{
+    display: none;
+}
+#placeswhere{
+    color:gray;     
+}
+.location{
+    width: 500px;
+    border-bottom: 1px solid #2DC6FF;
+    padding: 5px;
+    
+}
+.location2{
+    width: 500px;
+    border-bottom: 1px solid #2DC6FF;
+    padding: 5px;
+    float: left;
+    
+}
+.locationleft{
+    width: 400px;
+    float: left;
+    
+}
+.locationleft strong,.locationleft label{
+    display: block;
+    line-height: 15px;
+}
+.location img{
+    float: right;
+}
+.location p{
+    margin-bottom: 5px !important;
+}
+.location2 p{
+    margin-bottom: 5px !important;
+}
+.location2 img{
+    float: right;
+}
+.locationleft2{
+    width: 280px;
+    padding: 5px;
+    min-height: 100px;
+    
+    float: left;
+}
+.contentBox{
+    width: 190px;
+   
+    float: right;
+    padding: 5px;
+}
+.contentBox img{
+    float: left;
+}
+.contentBox hr{
+    margin-bottom: 5px !important;
+}
+
+.alignleft select{
+    display: inline;
+}
+
+#imageloader{
+    top: 3px;
+    position: relative;
+    visibility: hidden;
+   
+}
+#toptab p{
+    float: left !important;
+}
+#shadowboxlink{
+    display: none;
+}
+.starratings strong {
+    padding-left: 10px;
+    color: red;
+    font-style: italic;
+}
+.starratings img{
+    float: left !important;
+    margin-top: 3px;
+}
+.authorimage{
+    float: left !important;
+    margin-right: 10px;
+}
+.color,.side2{
+    width: 60px;
+    
+    
+}
+
+#gmap{
+        border: 1px dashed #C0C0C0;
+        width: 496px;
+        height: 300px;
+        margin-left: 2px;
+        float: left;
+        margin-bottom: 15px;
+      }
+.featureadinput{
+    width: 300px;
+}
+.featuretable tr td textarea{
+    width: 300px;
+    height: 80px;
+}
+.featuretable tr td{
+
+} 
+
+.featureph{
+    float: right;
+}
+
+.zipexBox{
+    width: 420px;
+    padding:0 10px;
+    min-height: 15px;
+    clear:both
+    
+}
+.zipexBox label{
+    padding-right: 10px;
+    display: block;
+   padding-top: 7px;
+    float: left;
+
+}
+ .zipexBox input{
+    float: right;
+    width: 230px !important;
+     background: none repeat scroll 0 0 #F9F9F9;
+    border: 1px solid #CCCCCC;
+    box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.1) inset;
+    padding: 2px;
+    margin: 0 0 14px
+}
+ .zipexBox select{
+    float: right;
+    width: 235px !important;
+     background: none repeat scroll 0 0 #F9F9F9;
+    border: 1px solid #CCCCCC;
+    box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.1) inset;
+    padding: 2px;
+        margin: 0 0 14px
+
+}
+.zipexBox p{
+    float: right;
+    clear: both;
+    color: red;
+    font-size: 9px;
+    font-style: italic;
+    margin: 0px !important;
+    margin-top: -12px !important;
+}
+
+.zipexBox2{
+    width: 650px;
+    padding: 5px;
+    padding-bottom: 10px;
+    min-height: 15px;
+    clear:both
+    
+}
+.cityBox{
+    width: 455px;
+}
+.cityPreview{
+    width: 150px;
+    float: right;
+}
+.imageloader{
+    margin-left: 6px;
+}
+
+#allcitytable tr td{
+  margin: 0px !important;
+}
+#allcitytable tr td p{
+    margin: 0px !important;
+ }
+.fliterbox{
+    width: 500px;
+    padding-top: 5px;
+    clear:both;
+}
+#filtertable tr td{
+    padding: 0px !important;
+    padding-top: 5px;
+    float: left;
+    width: 20%;
+}
+#filtertable tr td label{
+    padding: 5px 0 5px 18px ;   
+}
+#filtertable tr td select{
+    width: 120px !important;
+    margin:4px 0 0 0 !important
+}
+#filtertable tr td input{
+    margin:0px 0 0 15px !important
+ }
+
+.fancybox-loading2 {
+    height: 100px;
+    left: 400px;
+    position: absolute;
+    top: 150px;
+    width: 100px;
+   
+ }
+ 
+ .leftbox2{
+    width: 450px;
+    
+   
+    float: left;
+    padding: 10px;
+ }
+ .disbox{
+    width: 300px;
+    float: left;
+  
+ 
+ }
+  .leftbox2 img{
+    float: right;
+  }
+  
+ .leftbox2 p{
+    margin-bottom: 5px !important;
+ }
+ .leftbox2 h1{
+    line-height: 25px !important;
+    }
+    
+ .relatedbox{
+    width: 450px;
+   
+    clear: both;
+    float: right;
+    padding-top:20px;
+  
+ }
+ .rbox{
+    width: 200px;
+    float: left;
+    padding-left: 10px;
+ }   
+ .rightbox2{
+    width: 400px;
+    float: right;
+    
+ }
+ 
+ .content-gmap{
+     border: 1px dashed #C0C0C0;
+    float: left;
+    height: 350px;
+    margin-bottom: 15px;
+    margin-left: 2px;
+    width: 390px;
+ }
+ 
