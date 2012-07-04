@@ -8,7 +8,7 @@ Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-LocalGrid Plugin is the best plugin for the make your site as a directory listing , deals and revives site .
+LocalGrid Plugin is the best plugin for the make your site as a directory listing ,deals and reviews site .
 
 == Description ==
 
