@@ -4,7 +4,7 @@ Donate link: http://cannylab.com
 Tags: places, deals ,reviews ,directories , citygrid api 
 Requires at least: 3.1
 Tested up to: 1.1
-Stable tag: trunk
+Stable tag: 1.0.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
