@@ -3,8 +3,8 @@
 Plugin Name: LocalGrid
 Plugin URI: http://localgrid.cannylab.com
 Description: Make your site as best place for local business directory , deals and review .
-Version: 1.0
-Author: cannylab
+Version: 1.0.1
+Author: cannylab inc
 Author URI: http://cannylab.com
 Author email: imran.aspire@gmail.com
 License: GPLv2 or later
